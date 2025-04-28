@@ -5,7 +5,7 @@
 ![Discord](https://img.shields.io/discord/1362937867793469510?label=Join%20our%20Discord&logo=discord&style=flat-square)  
 ![Sentry Monitored](https://img.shields.io/badge/monitored%20by-Sentry-orange?logo=sentry&style=flat-square)  
 ![Security](https://img.shields.io/badge/security-verified%20by%20Snyk-brightgreen?logo=snyk&style=flat-square)
-
+<iframe src="https://discord.com/widget?id=1362937867793469510&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 ---
 
 WizeWorks is a **software innovation studio** and **open technology collective** focused on building powerful, modular platforms that accelerate application development and enable seamless digital experiences.
