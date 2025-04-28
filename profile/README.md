@@ -14,7 +14,7 @@ WizeWorks is a software innovation studio and open technology collective focused
 | [wize-comment](https://github.com/wize-works/wize-comment) | ![CI](https://github.com/wize-works/wize-comment/actions/workflows/deploy.yml/badge.svg) |
 | [wize-project](https://github.com/wize-works/wize-project) | ![CI](https://github.com/wize-works/wize-project/actions/workflows/deploy.yml/badge.svg) |
 | [jobsight](https://github.com/wize-works/jobsight) | ![CI](https://github.com/wize-works/jobsight/actions/workflows/deploy.yml/badge.svg) |
-| [jobsight](https://github.com/wize-works/jobsight-app) | ![CI](https://github.com/wize-works/jobsight-app/actions/workflows/deploy.yml/badge.svg) |
+| [jobsight-app](https://github.com/wize-works/jobsight-app) | ![CI](https://github.com/wize-works/jobsight-app/actions/workflows/deploy.yml/badge.svg) |
 
 ---
 
