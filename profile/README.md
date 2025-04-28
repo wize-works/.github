@@ -2,7 +2,7 @@
 
 **Empowering Builders. Elevating Ideas.**
 
-![Discord](https://img.shields.io/discord/your-discord-id?label=Join%20our%20Discord&logo=discord&style=flat-square)  
+![Discord](https://img.shields.io/discord/1362937867793469510?label=Join%20our%20Discord&logo=discord&style=flat-square)  
 ![Sentry Monitored](https://img.shields.io/badge/monitored%20by-Sentry-orange?logo=sentry&style=flat-square)  
 ![Security](https://img.shields.io/badge/security-verified%20by%20Snyk-brightgreen?logo=snyk&style=flat-square)
 
