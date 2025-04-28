@@ -6,6 +6,18 @@ WizeWorks is a software innovation studio and open technology collective focused
 
 ---
 
+## 🚀 Active Projects
+
+| Project | Status |
+|:--------|:------:|
+| [wize-content](https://github.com/wize-works/wize-content) | ![CI](https://github.com/wize-works/wize-content/actions/workflows/ci.yml/badge.svg) |
+| [wize-comment](https://github.com/wize-works/wize-comment) | ![CI](https://github.com/wize-works/wize-comment/actions/workflows/ci.yml/badge.svg) |
+| [wize-project](https://github.com/wize-works/wize-project) | ![CI](https://github.com/wize-works/wize-project/actions/workflows/ci.yml/badge.svg) |
+| [jobsight](https://github.com/wize-works/jobsight) | ![CI](https://github.com/wize-works/jobsight/actions/workflows/ci.yml/badge.svg) |
+| [jobsight](https://github.com/wize-works/jobsight-app) | ![CI](https://github.com/wize-works/jobsight-app/actions/workflows/ci.yml/badge.svg) |
+
+---
+
 ## 🌟 What We Do
 
 WizeWorks is more than a single platform — it's an ecosystem of composable, open-source tools and SaaS products focused on:
