@@ -14,6 +14,7 @@ We champion **developer-first tooling**, **scalable cloud infrastructure**, and 
 ---
 
 ## 🚀 Active Projects
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/wizeworks/actions/workflows/deploy.yml)
 
 | Project | Build Status | License | Last Commit |
 |:--------|:------------:|:-------:|:-----------:|
