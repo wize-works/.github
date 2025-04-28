@@ -10,11 +10,11 @@ WizeWorks is a software innovation studio and open technology collective focused
 
 | Project | Status |
 |:--------|:------:|
-| [wize-content](https://github.com/wize-works/wize-content) | ![CI](https://github.com/wize-works/wize-content/actions/workflows/ci.yml/badge.svg) |
-| [wize-comment](https://github.com/wize-works/wize-comment) | ![CI](https://github.com/wize-works/wize-comment/actions/workflows/ci.yml/badge.svg) |
-| [wize-project](https://github.com/wize-works/wize-project) | ![CI](https://github.com/wize-works/wize-project/actions/workflows/ci.yml/badge.svg) |
-| [jobsight](https://github.com/wize-works/jobsight) | ![CI](https://github.com/wize-works/jobsight/actions/workflows/ci.yml/badge.svg) |
-| [jobsight](https://github.com/wize-works/jobsight-app) | ![CI](https://github.com/wize-works/jobsight-app/actions/workflows/ci.yml/badge.svg) |
+| [wize-content](https://github.com/wize-works/wize-content) | ![CI](https://github.com/wize-works/wize-content/actions/workflows/deploy.yml/badge.svg) |
+| [wize-comment](https://github.com/wize-works/wize-comment) | ![CI](https://github.com/wize-works/wize-comment/actions/workflows/deploy.yml/badge.svg) |
+| [wize-project](https://github.com/wize-works/wize-project) | ![CI](https://github.com/wize-works/wize-project/actions/workflows/deploy.yml/badge.svg) |
+| [jobsight](https://github.com/wize-works/jobsight) | ![CI](https://github.com/wize-works/jobsight/actions/workflows/deploy.yml/badge.svg) |
+| [jobsight](https://github.com/wize-works/jobsight-app) | ![CI](https://github.com/wize-works/jobsight-app/actions/workflows/deploy.yml/badge.svg) |
 
 ---
 
