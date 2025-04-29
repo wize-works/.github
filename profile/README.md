@@ -15,6 +15,8 @@ We champion **developer-first tooling**, **scalable cloud infrastructure**, and 
 
 ## 🚀 Active Projects
 ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/wizeworks/actions/workflows/deploy.yml)
+![CI](https://img.shields.io/github/actions/workflow/status/wizeworks/wize-schema-factory/workflows%2Fdeploy.yml?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fwize-works%2Fwize-comment%2Factions)
+
 
 | Project | Build Status | License | Last Commit |
 |:--------|:------------:|:-------:|:-----------:|
