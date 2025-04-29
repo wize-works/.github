@@ -14,17 +14,17 @@ We champion **developer-first tooling**, **scalable cloud infrastructure**, and 
 ---
 
 ## 🚀 Active Projects
-[![GitHub Actions](https://github.com/wize-works/wize-comment/actions/workflows/deploy.yml/badge.svg)](https://github.com/wize-works/wize-comment/actions/workflows/deploy.yml)
+
 
 | Project | Build Status | License | Last Commit |
 |:--------|:------------:|:-------:|:-----------:|
-| [wize-content](https://github.com/wize-works/wize-content) | ![CI]([https://github.com/](https://img.shields.io/github/actions/workflow/status/wize-works/wizecontent/actions/workflows/deploy.yml) | ![License](https://img.shields.io/github/license/wize-works/wize-content) | ![Last Commit](https://img.shields.io/github/last-commit/wize-works/wize-content) |
-| [wize-comment](https://github.com/wize-works/wize-comment) | ![CI](https://github.com/wize-works/wize-comment/actions/workflows/deploy.yml/badge.svg) | ![License](https://img.shields.io/github/license/wize-works/wize-comment) | ![Last Commit](https://img.shields.io/github/last-commit/wize-works/wize-comment) |
-| [wize-project](https://github.com/wize-works/wize-project) | ![CI](https://github.com/wize-works/wize-project/actions/workflows/deploy.yml/badge.svg) | ![License](https://img.shields.io/github/license/wize-works/wize-project) | ![Last Commit](https://img.shields.io/github/last-commit/wize-works/wize-project) |
-| [jobsight](https://github.com/wize-works/jobsight) | ![CI](https://github.com/wize-works/jobsight/actions/workflows/deploy.yml/badge.svg) | ![License](https://img.shields.io/github/license/wize-works/jobsight) | ![Last Commit](https://img.shields.io/github/last-commit/wize-works/jobsight) |
-| [jobsight-app](https://github.com/wize-works/jobsight-app) | ![CI](https://github.com/wize-works/jobsight-app/actions/workflows/deploy.yml/badge.svg) | ![License](https://img.shields.io/github/license/wize-works/jobsight-app) | ![Last Commit](https://img.shields.io/github/last-commit/wize-works/jobsight-app) |
+| [wize-content](https://github.com/wize-works/wize-content) | [![GitHub Actions](https://github.com/wize-works/wize-conetnt/actions/workflows/deploy.yml/badge.svg)](https://github.com/wize-works/wize-content/actions/workflows/deploy.yml) | ![License](https://img.shields.io/github/license/wize-works/wize-content) | ![Last Commit](https://img.shields.io/github/last-commit/wize-works/wize-content) |
+| [wize-comment](https://github.com/wize-works/wize-comment) | [![GitHub Actions](https://github.com/wize-works/wize-comment/actions/workflows/deploy.yml/badge.svg)](https://github.com/wize-works/wize-comment/actions/workflows/deploy.yml) | ![License](https://img.shields.io/github/license/wize-works/wize-comment) | ![Last Commit](https://img.shields.io/github/last-commit/wize-works/wize-comment) |
+| [wize-project](https://github.com/wize-works/wize-project) | [![GitHub Actions](https://github.com/wize-works/wize-project/actions/workflows/deploy.yml/badge.svg)](https://github.com/wize-works/wize-project/actions/workflows/deploy.yml) | ![License](https://img.shields.io/github/license/wize-works/wize-project) | ![Last Commit](https://img.shields.io/github/last-commit/wize-works/wize-project) |
+| [jobsight](https://github.com/wize-works/jobsight) | [![GitHub Actions](https://github.com/wize-works/jobsight/actions/workflows/deploy.yml/badge.svg)](https://github.com/wize-works/jobsight/actions/workflows/deploy.yml) | ![License](https://img.shields.io/github/license/wize-works/jobsight) | ![Last Commit](https://img.shields.io/github/last-commit/wize-works/jobsight) |
+| [jobsight-app](https://github.com/wize-works/jobsight-app) | [![GitHub Actions](https://github.com/wize-works/jobsight-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/wize-works/jobsight-app/actions/workflows/deploy.yml) | ![License](https://img.shields.io/github/license/wize-works/jobsight-app) | ![Last Commit](https://img.shields.io/github/last-commit/wize-works/jobsight-app) |
 ## Packages
-| [wize-schema-factory](https://github.com/wize-works/wize-schema-factory) | ![CI](https://github.com/wize-works/wize-schema-factory/actions/workflows/deploy.yml/badge.svg) | ![License](https://img.shields.io/github/license/wize-works/wize-schema-factory) | ![Last Commit](https://img.shields.io/github/last-commit/wize-works/wize-schema-factory) |
+| [wize-schema-factory](https://github.com/wize-works/wize-schema-factory) | [![GitHub Actions](https://github.com/wize-works/wize-schema-factory/actions/workflows/deploy.yml/badge.svg)](https://github.com/wize-works/wize-schema-factory/actions/workflows/deploy.yml) | ![License](https://img.shields.io/github/license/wize-works/wize-schema-factory) | ![Last Commit](https://img.shields.io/github/last-commit/wize-works/wize-schema-factory) |
 
 ---
 
