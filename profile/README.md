@@ -23,7 +23,7 @@ We champion **developer-first tooling**, **scalable cloud infrastructure**, and 
 | [wize-project](https://github.com/wize-works/wize-project) | [![GitHub Actions](https://github.com/wize-works/wize-project/actions/workflows/deploy.yml/badge.svg)](https://github.com/wize-works/wize-project/actions/workflows/deploy.yml) | ![License](https://img.shields.io/github/license/wize-works/wize-project) | ![Last Commit](https://img.shields.io/github/last-commit/wize-works/wize-project) |
 | [jobsight](https://github.com/wize-works/jobsight) | [![GitHub Actions](https://github.com/wize-works/jobsight/actions/workflows/deploy.yml/badge.svg)](https://github.com/wize-works/jobsight/actions/workflows/deploy.yml) | ![License](https://img.shields.io/github/license/wize-works/jobsight) | ![Last Commit](https://img.shields.io/github/last-commit/wize-works/jobsight) |
 | [jobsight-app](https://github.com/wize-works/jobsight-app) | [![GitHub Actions](https://github.com/wize-works/jobsight-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/wize-works/jobsight-app/actions/workflows/deploy.yml) | ![License](https://img.shields.io/github/license/wize-works/jobsight-app) | ![Last Commit](https://img.shields.io/github/last-commit/wize-works/jobsight-app) |
-## Packages
+|## Packages|
 | [wize-schema-factory](https://github.com/wize-works/wize-schema-factory) | [![GitHub Actions](https://github.com/wize-works/wize-schema-factory/actions/workflows/deploy.yml/badge.svg)](https://github.com/wize-works/wize-schema-factory/actions/workflows/deploy.yml) | ![License](https://img.shields.io/github/license/wize-works/wize-schema-factory) | ![Last Commit](https://img.shields.io/github/last-commit/wize-works/wize-schema-factory) |
 
 ---
